@@ -42,3 +42,8 @@ Frontend, Backend y Base de datos.
 
 ## Servicios Externos
 - SEPOMEX API: autocompletado de direccion por codigo postal
+
+## Version del Sistema
+- Version: 1.0.0
+- Fecha: Junio 2026
+
