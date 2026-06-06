@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AuthService } from './services/auth.service';
 
 @Component({
-  selector: 'app-root',
+  selector: 'virtualid-root'',
   templateUrl: './app.component.html',
   styleUrls: ['./styles.css']
 })
